@@ -14,23 +14,23 @@
     "install": "node install.js && npm run db-migrate"
   },
   "dependencies": {
-    "async": "^1.4.0",
+    "async": "^2.1.2",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.13.3",
-    "bookshelf": "^0.8.1",
-    "checkit": "^0.6.0",
+    "bookshelf": "^0.10.2",
+    "checkit": "^0.7.0",
     "cookie-parser": "^1.4.1",
     "db-migrate": "^0.9.18",
     "ejs": "^2.3.1",
-    "express": "~4.9.x",
+    "express": "~4.14.0",
     "express-session": "^1.11.3",
-    "knex": "^0.8.6",
-    "lodash": "^3.10.1",
+    "knex": "^0.12.6",
+    "lodash": "^4.16.6",
     "nodemailer": "^2.3.0",
     "npm": "^3.7.2",
-    "passport": "~0.2.0",
+    "passport": "~0.3.2",
     "passport-local": "^1.0.0",
-    "pg": "4.x"
+    "pg": "^6.1.0"
   },
   "engines": {
     "node": "0.12.2"
@@ -46,12 +46,12 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "documentjs": "^0.3.3",
-    "donejs": "^0.7.0-pre.1",
-    "donejs-cli": "^0.6.6",
+    "documentjs": "^0.4.4",
+    "donejs": "^0.9.2",
+    "donejs-cli": "^0.9.5",
     "donejs-deploy": "^0.4.1",
     "jshint": "^2.9.1",
-    "maildev": "^0.12.1"
+    "maildev": "^0.14.0"
   },
   "donejs": {
     "deploy": {
