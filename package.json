@@ -16,7 +16,7 @@
   "dependencies": {
     "async": "^2.1.2",
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.13.3",
+    "body-parser": "^1.16.0",
     "bookshelf": "^0.10.2",
     "checkit": "^0.7.0",
     "cookie-parser": "^1.4.1",
