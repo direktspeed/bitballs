@@ -51,7 +51,7 @@
     "donejs-cli": "^0.9.5",
     "donejs-deploy": "^0.4.1",
     "jshint": "^2.9.1",
-    "maildev": "^0.14.0"
+    "maildev": "^1.0.0-rc1"
   },
   "donejs": {
     "deploy": {
