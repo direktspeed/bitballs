@@ -50,7 +50,7 @@
     "donejs": "^0.9.2",
     "donejs-cli": "^0.9.5",
     "donejs-deploy": "^0.4.1",
-    "jshint": "^2.9.1",
+    "jshint": "^2.9.5",
     "maildev": "^0.14.0"
   },
   "donejs": {
